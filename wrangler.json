@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ayo-api-proxy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4a77b2a8-7ae6-40e7-89d7-1766eac69204",
+			"database_name": "ayo-api-proxy"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
